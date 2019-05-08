@@ -1,0 +1,3 @@
+rootProject.name = 'american_patriotd_3084'
+
+include ':app'
